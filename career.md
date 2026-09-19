@@ -257,15 +257,15 @@ Có cơ hội tiếp cận các công nghệ AI mới.
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng: …
-- Phía người dùng lập luận rằng: …
-- **Quyết định của tôi**, và vì sao: …
+- Phía luật sư công ty lập luận rằng: Cần xác định việc thu thập dữ liệu có vi phạm quy định pháp luật hoặc nghĩa vụ của công ty hay không. Do thời gian gấp, việc xử lý cũng cần hạn chế ảnh hưởng đến hoạt động của hệ thống.
+- Phía người dùng lập luận rằng: Vị trí là dữ liệu nhạy cảm về quyền riêng tư. Người dùng phải biết dữ liệu của mình đang được thu thập, sử dụng và lưu trữ như thế nào. Việc âm thầm thu thập dữ liệu làm tăng nguy cơ lạm dụng hoặc rò rỉ thông tin.
+- **Quyết định của tôi**, và vì sao: Về phía tôi, tôi sẽ không đồng ý về việc thông tin cá nhân của người dùng bị xâm hại, có nguy cơ rò rỉ và làm lộ. Là một người nắm giữ vai trò cốt lõi về bảo vệ an toàn trên không gian mạng, tôi sẽ yêu cầu phía công ty xóa hết dữ liệu về người dùng đã được thu thập.
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Làm quen và hiểu được cơ bản về kĩ sư an ninh mạng.
+2. Nắm được đại khái cách hoạt động của ngôn ngữ lập trình python.
+3. Tìm hiểu và mở rộng về ngành mà mình muốn theo đuổi.
 
 Cụ thể tới mức tháng sau kiểm được.
 
@@ -273,9 +273,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Tôi đã đặt câu hỏi và hỏi AI những câu hỏi như thế nào. |
+| **Hoài** | Sau khi hỏi, tôi xem lại phần trả lời của AI cùng với đó tra cứu thông tin trên mạng để chắn chắn rằng AI có đúng không. |
+| **Học** | Tôi có thể học được gì từ câu trả lời của AI, cùng với đó có thể hiểu thêm được gì từ việc mình hỏi và tra cứu thông tin trên mạng. |
+| **Hành** | Tôi đã áp dụng được gì sau khi đã hỏi và áp dụng được những thứ trên mạng. Sau nhiều lần lặp lại thì mình đã rút ra được những bài học gì. |
 
-Công cụ đã dùng: …
+Công cụ đã dùng: Chat GPT, Gemini
