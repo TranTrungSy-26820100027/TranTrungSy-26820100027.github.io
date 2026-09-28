@@ -21,7 +21,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | Thái độ |-Thái độ cầu tiến ham học hỏi, năng động và sẵn sàng thử thách |-Có tư duy logic, tinh thần học hỏi và khả năng giải quyết vấn đề cao |-Tố chất: Tư duy tích cực, năng động, đáng tin cậy. Có khả năng tổ chức công việc và tinh thần trách nhiệm cao. | chưa |
 | Công cụ |-Ngôn ngữ lập trình SQL, các công cụ BI |-Ngôn ngữ lập trình  |-Ngôn ngữ lập trình | chưa |
 
-## Ba tin tuyển dụn
+## Ba tin tuyển dụng
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
