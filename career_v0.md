@@ -278,4 +278,4 @@ Cụ thể tới mức tháng sau kiểm được.
 | **Học** | Tôi có thể học được gì từ câu trả lời của AI, cùng với đó có thể hiểu thêm được gì từ việc mình hỏi và tra cứu thông tin trên mạng. |
 | **Hành** | Tôi đã áp dụng được gì sau khi đã hỏi và áp dụng được những thứ trên mạng. Sau nhiều lần lặp lại thì mình đã rút ra được những bài học gì. |
 
-Công cụ đã dùng: Chat GPT, Gemin
+Công cụ đã dùng: Chat GPT, Gemini
