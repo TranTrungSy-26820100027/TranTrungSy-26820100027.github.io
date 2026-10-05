@@ -11,7 +11,7 @@ title: Bản đồ học tập bốn năm
 
 ## Tám học kỳ
 
-https://notebooklm.link.google/KbE1GbV4eL0N
+https://notebooklm.link.google/ijaALn0xUEGK
 
 ### Năm nhất
 
