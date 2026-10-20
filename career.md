@@ -89,10 +89,7 @@ Tối thiểu có kinh nghiệm 02 năm phân tích dữ liệu, khoa học máy
 Có năng lực lập trình sử dụng những ngôn ngữ phổ biến trong xử lý dữ liệu như Python, R, Matlab, Sql,...
 Có kinh nghiệm tương tác, sử dụng, phát triển, xử lý dữ liệu trên các hệ thống dữ liệu lớn hoặc các công cụ xử lý dữ liệu lớn Spark, Hadoop, S3 storage...
 Có hiểu biết về các thuật toán nói chung, đặc biệt các thuật toán học máy.
-Hiểu và sử dụng kiến thức thống kê, toán học ứng dụng trong quản lý chất lượng và phát triển mô hình.
-Ưu tiên có hiểu biết hoặc đã sử dụng các thuật toán khai phá dữ liệu trong thực tế.
-Có kinh nghiệm sử dụng các công cụ trực quan hóa dữ liệu, matplotlib, tableau,...
-Có tư duy logic tốt, có khả năng thiết kế, giải quyết các bài toán, vấn đề liên quan đến dữ liệu và sử dụng dữ liệu.
+
 Quyền lợi :
 Chế độ Thưởng hấp dẫn:Thưởng dịp lễ tết,Thưởng thành tích gắn với hiệu suất công việc/kết quả kinh doanh
 Chế độ phúc lợi vượt trội: Đãi ngộ gắn kết (Tặng quà sinh nhật, quà tết nguyên đán, đãi ngộ thâm niên.....) Bảo hiểm chăm sóc sức khỏe cho CBNV/người thân với các đặc quyền độc đáo Du lịch/nghỉ dưỡng hằng năm trong nước & nước ngoài
@@ -101,11 +98,13 @@ Chế độ phúc lợi vượt trội: Đãi ngộ gắn kết (Tặng quà sin
   ** Tuyển dụng Data Scientist **
   -Địa điểm làm việc: Hà Nội: Phường Tây Hồ (quận Tây Hồ cũ)
   -Thời gian làm việc: Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)
+  
   -Mô tả công việc
 Chủ động đề xuất, thiết kế, chịu trách nhiệm chính triển khai các giải pháp khoa học dữ liệu cùng chuyên gia và phối hợp chặt chẽ với các đơn vị kinh doanh/vận hành để giải quyết các bài toán thực tế có tính ứng dụng cao.
 Phân tích chuyên sâu và khám phá dữ liệu lớn, sử dụng các kỹ thuật xác suất thống kê, học máy và học sâu để phát hiện các xu hướng, hành vi ẩn và các yếu tố thúc đẩy hành động của khách hàng; từ đó xây dựng insight giá trị và hỗ trợ đề xuất chiến lược kinh doanh, thiết kế sản phẩm hoặc chiến dịch phù hợp.
 Phối hợp với ML Engineer / Data Engineer để đóng gói và triển khai mô hình. Thiết lập cơ chế monitoring, drift detection và cảnh báo suy giảm hiệu năng. Tham gia A/B testing và đánh giá tác động thực tế sau triển khai. Hỗ trợ cải tiến mô hình theo vòng đời MLOps.
 Làm việc chặt chẽ với chuyên gia phân tích đầu tư, tư vấn đầu tư và Product Owner để chuyển đổi bài toán kinh doanh thành bài toán dữ liệu. Giải thích kết quả mô hình một cách rõ ràng, có logic và phù hợp với ngữ cảnh đầu tư. Đảm bảo mô hình phản ánh đúng thực tiễn thị trường và hành vi khách hàng.
+
  -Yêu cầu ứng viên
 Độ tuổi dưới 26, tốt nghiệp Đại học trở lên các ngành: Khoa học Dữ liệu, Khoa học Máy tính, Toán/Thống kê, Tài chính định lượng, Kinh tế lượng hoặc các ngành liên quan..
 Có hiểu biết sâu và vận dụng thành thạo các kỹ thuật phân tích dữ liệu nâng cao, bao gồm kiểm định giả thuyết, phân tích nhân quả, xử lý mất cân bằng dữ liệu, phân tích chuỗi thời gian, mô hình suy diễn, vector embeddings
@@ -115,6 +114,7 @@ Có khả năng phối hợp hiệu quả với các đơn vị kinh doanh/vận
 Hiểu rõ và có khả năng tham gia triển khai các quy trình phát triển và vận hành mô hình (MLOps/LangOps), bao gồm xử lý dữ liệu, huấn luyện, đánh giá, kiểm thử, triển khai và giám sát mô hình.
 Có chứng chỉ tiếng Anh TOEIC 700 trở lên hoặc các chứng chỉ tương đương
 Ưu tiên ứng viên có kinh nghiệm sử dụng: Mlflow, Docker, Git, DVC, AWS, Azure, Databricks… Có hiểu biết về drift detection, monitoring. Có khả năng làm việc với dữ liệu quy mô lớn. Có tư duy hệ thống và nhạy cảm với rủi ro mô hình. Có kinh nghiệm trong lĩnh vực tài chính/chứng khoán, đã từng triển khai mô hình vào môi trường thực tế.
+
  -Quyền lợi
 Được hưởng mức thu nhập cạnh tranh, tháng lương thứ 13 và thưởng theo kết quả sản xuất kinh doanh của Công ty.
 Được hưởng bảo hiểm sức khỏe FPT Care dành riêng cho CBNV FPT cùng đầy đủ BHXH, BHYT, BHTN theo quy định.
