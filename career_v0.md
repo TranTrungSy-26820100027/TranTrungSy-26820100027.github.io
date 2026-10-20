@@ -8,7 +8,7 @@ title: Chân dung nghề của tôi
 
 An Ninh Mạng
 
-Vì sao: Học an ninh mạng có thẻ mang đến cho tôi cơ hội việc làm cũng như thỏa mãn được niềm ao ước từ bé của tôi. Nó khiến tôi có thêm được nhiều kiến thức về lập trình cũng như về bảo mật trên không gian mạng.
+Vì sao: Học an ninh mạng có thẻ mang đến cho tôi cơ hội việc làm cũng như thỏa mãn được niềm ao ước từ bé của tôi.
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
