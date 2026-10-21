@@ -39,7 +39,7 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Em đưa ra những câu hỏi hoặc bài tập mà mình chưa hiểu và yêu cầu AI hướng dẫn từng bước, đặt câu hỏi gợi ý để em tự tìm ra đáp án |
+| **Hoài** | Khi AI đưa ra gợi ý thì em tự suy nghĩ xem cách giải thích đó có hợp lý không và nếu có phần chưa hiểu thì em tiếp tục hỏi AI để làm rõ và yêu cầu giải thích bằng ví dụ cụ thể |
+| **Học** | Qua quá trình trao đổi thì em thấy mình đã hiểu rõ hơn về kiến thức đang học, nhận ra những lỗi sai của bản thân và biết cách tiếp cận vấn đề theo từng bước thay vì chỉ học thuộc đáp án |
+| **Hành** | Em tự làm lại bài tập dựa trên những gì đã hiểu và áp dụng kiến thức vào các bài tương tự, ghi lại những lỗi thường gặp để rút kinh nghiệm cho bản thân vào những lần sau |
