@@ -48,29 +48,29 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 
 ## Vì sao tôi xếp như vậy
 
-- Kỳ nặng nhất là kỳ 1 và 2, vì những năm này tôi có nhiều thời gian để có thể hoàn thành những môn học này, có thể rút ngắn các môn học về sau để dễ dàng đi xin thực tập và chuẩn bị đồ án tốt nghiệp.
-- Môn  phải học trước môn … vì …
-- Kỳ … tôi để nhẹ vì …
+- Kỳ nặng nhất là kỳ 1A và 2A, vì những năm này tôi có nhiều thời gian để có thể hoàn thành những môn học này, có thể rút ngắn các môn học về sau để dễ dàng đi xin thực tập và chuẩn bị đồ án tốt nghiệp.
+- Môn Tiếng Anh 1 và Tiếng Anh 2 phải học trước môn Lập Trình và các môn liên quan vì những môn này đòi hỏi sự hiểu biết về Tiếng Anh rất lớn nên tôi sẽ chú trọng học từ những học kì đầu của năm 1
+- Kỳ 7 và 8 tôi để nhẹ vì tôi muốn dành sự chú trọng nghiêm túc nhất vào năm 4 để đồ án tốt nghiệp của tôi được hoàn thiện xuất sắc nhất.
 
 ## Hai chỗ AI nói sai
 
 **Chỗ thứ nhất**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Mã: **AIT1001**  Môn: Cơ sở trí tuệ nhân tạo  Tín Chỉ: 2
+- Bảng chương trình đào tạo thật ra ghi: Mã: **AIT1001**  Môn: Cơ sở trí tuệ nhân tạo  Tín Chỉ: 3
+- Tôi sửa thành: Mã: **AIT1001**  Môn: Cơ sở trí tuệ nhân tạo  Tín Chỉ: 3
 
 **Chỗ thứ hai**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Mã: **PHT306**  Môn: Bóng chuyền 3  Tín Chỉ: 2
+- Bảng chương trình đào tạo thật ra ghi: Mã: **PHT306**  Môn: Bóng chuyền 3  Tín Chỉ: 1
+- Tôi sửa thành: Mã: **PHT306**  Môn: Bóng chuyền 3  Tín Chỉ: 1
 
 ## Tôi đã làm việc với AI thế nào
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
+| **Hỏi** | |
 | **Hoài** | … |
 | **Học** | … |
 | **Hành** | … |
