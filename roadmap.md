@@ -17,24 +17,24 @@ https://notebooklm.link.google/7cepmohCy6Cc
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 1 | CMP1074 <br> CMP3075 <br> LAW106 <br> SKL115 <br> ENC120 <br> MAT101 <br> COS673 <br> CMP164 <br> CMP365 <br> MAT118 <br> MAT104 <br> ENC121 <br> POS104 <br> SKL116| Cơ sở lập trình <br> Thực hành cơ sở lập trình <br> Pháp luật đại cương <br> Tư duy thiết kế dự án <br> Anh ngữ 1 <br> Đại số tuyến tính <br> Nhập môn ngành Khoa học máy tính <br> Kỹ thuật lập trình <br> Thực hành kỹ thuật lập trình <br> Giải tích <br> Toán rời rạc <br> Anh ngữ 2 <br> Triết học Mác - Lênin <br> Đổi mới sáng tạo và tư duy khởi nghiệp | 3 <br> 1 <br> 3 <br> 3 <br> 3 <br> 3 <br> 3 <br> 3 <br> 1 <br> 3 <br> 3 <br> 3 <br> 3 <br> 3|
-| 2 | CMP167 <br> CMP368 <br> COS135 <br> COS323 <br> MAT105 <br> ENC122 <br> ENS192 <br> AIT1002 <br> AIT3007 <br> CMP172 <br> CMP373 <br> COS1002 <br> COS324 <br> ENC123 | Lập trình hướng đối tượng <br> Thực hành lập trình hướng đối tượng <br> Nhập môn cơ sở dữ liệu <br> Thực hành cơ sở dữ liệu <br> Xác suất thống kê <br> Anh ngữ 3 <br> Phát triển bền vững <br> Nghệ thuật lập trình với hỗ trợ trí tuệ nhân tạo <br> Thực hành nghệ thuật lập trình với hỗ trợ trí tuệ nhân tạo <br> Mạng máy tính <br> Thực hành mạng máy tính <br> Các hệ quản trị cơ sở dữ liệu <br> Thực hành quản trị cơ sở dữ liệu <br> Anh ngữ 4 | 3 <br> 1 <br> 3 <br> 1 <br> 3 <br> 3 <br> 3 <br> 3 <br> 1 <br> 3 <br> 1 <br> 3 <br> 1 <br> 3 |
-| Hè | POS105 <br> POS107 <br> PHT304 <br> PHT305 | Kinh tế chính trị Mác - Lênin <br> Lịch sử Đảng Cộng sản Việt Nam <br> Bóng chuyền 1 <br> Bóng chuyền 2 | 2 <br> 2 <br> 2 <br> 2 |
+| 1 | CMP1074, CMP3075, LAW106, SKL115, ENC120, MAT101, COS673, CMP164, CMP365, MAT118, MAT104, ENC121, POS104, SKL116| Cơ sở lập trình, Thực hành cơ sở lập trình, Pháp luật đại cương, Tư duy thiết kế dự án,Anh ngữ 1, Đại số tuyến tính, Nhập môn ngành Khoa học máy tính, Kỹ thuật lập trình, Thực hành kỹ thuật lập trình, Giải tích, Toán rời rạc, Anh ngữ 2, Triết học Mác - Lênin, Đổi mới sáng tạo và tư duy khởi nghiệp | 38|
+| 2 | CMP167, CMP368, COS135, COS323, MAT105, ENC122, ENS192, AIT1002, AIT3007, CMP172, CMP373, COS1002, COS324, ENC123 | Lập trình hướng đối tượng, Thực hành lập trình hướng đối tượng, Nhập môn cơ sở dữ liệu, Thực hành cơ sở dữ liệu, Xác suất thống kê, Anh ngữ 3, Phát triển bền vững, Nghệ thuật lập trình với hỗ trợ trí tuệ nhân tạo, Thực hành nghệ thuật lập trình với hỗ trợ trí tuệ nhân tạo, Mạng máy tính, Thực hành mạng máy tính, Các hệ quản trị cơ sở dữ liệu, Thực hành quản trị cơ sở dữ liệu, Anh ngữ 4 | 32 |
+| Hè | POS105, POS107, PHT304, PHT305 | Kinh tế chính trị Mác - Lênin, Lịch sử Đảng Cộng sản Việt Nam, Bóng chuyền 1, Bóng chuyền 2 | 8 |
 
 ### Năm hai
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 3 | COS120 <br> COS321 <br> CMP174 <br> AIT1001 <br> CMP170 <br> CMP371 <br> POS103 <br> AIT103 <br> AIT305 <br> COS158 <br> COS360 <br> COS129 <br> CMP5089 <br> CMP3014 | Cấu trúc dữ liệu và giải thuật <br> Thực hành cấu trúc dữ liệu và giải thuật <br> Bảo mật thông tin <br> Cơ sở trí tuệ nhân tạo <br> Lập trình trên môi trường Windows <br> Thực hành lập trình trên môi trường Windows <br> Tư tưởng Hồ Chí Minh <br> Lập trình cho trí tuệ nhân tạo <br> Thực hành lập trình cho trí tuệ nhân tạo <br> Lập trình DevOps <br> Thực hành lập trình DevOps <br> Điện toán đám mây <br> Thực tập điện toán đám mây <br> Thực hành lý thuyết đồ thị | 3 <br> 1 <br> 3 <br> 3 <br> 3 <br> 1 <br> 2 <br> 3 <br> 1 <br> 3 <br> 1 <br> 3 <br> 1 <br> 1|
-| 4 | AIT104 <br> AIT306 <br> CMP101 <br> CMP177 <br> COS1010 <br> POS106 <br> CMP1047 <br> CMP3055 <br> AIT108 <br> AIT307 <br> COS159 | Máy học <br> Thực hành máy học <br> Công nghệ phần mềm <br> Lập trình trên thiết bị di động <br> Cơ sở công nghệ chuỗi khối <br> Chủ nghĩa xã hội khoa học <br> Phân tích và trực quan dữ liệu <br> Thực hành phân tích và trực quan dữ liệu <br> Xử lý ảnh và ứng dụng <br> Thực hành xử lý ảnh và ứng dụng <br> Đồ hoạ ứng dụng trong khoa học máy tính | 3 <br> 1 <br> 3 <br> 3 <br> 3 <br> 2 <br> 3 <br> 1 <br> 3 <br> 1 <br> 3 |
-| Hè | MIL  PHT306 | Giáo dục quốc phòng và an ninh <br> Bóng chuyền 3 | - <br> 1 |
+| 3 | COS120, COS321, CMP174, AIT1001, CMP170, CMP371, POS103, AIT103, AIT305, COS158, COS360, COS129, CMP5089, CMP3014 | Cấu trúc dữ liệu và giải thuật, Thực hành cấu trúc dữ liệu và giải thuật, Bảo mật thông tin, Cơ sở trí tuệ nhân tạo, Lập trình trên môi trường Windows, Thực hành lập trình trên môi trường Windows, Tư tưởng Hồ Chí Minh, Lập trình cho trí tuệ nhân tạo, Thực hành lập trình cho trí tuệ nhân tạo, Lập trình DevOps, Thực hành lập trình DevOps, Điện toán đám mây, Thực tập điện toán đám mây, Thực hành lý thuyết đồ thị |29|
+| 4 | AIT104, AIT306, CMP101, CMP177, COS1010, POS106, CMP1047, CMP3055, AIT108, AIT307, COS159 | Máy học, Thực hành máy học, Công nghệ phần mềm, Lập trình trên thiết bị di động, Cơ sở công nghệ chuỗi khối, Chủ nghĩa xã hội khoa học, Phân tích và trực quan dữ liệu, Thực hành phân tích và trực quan dữ liệu, Xử lý ảnh và ứng dụng, Thực hành xử lý ảnh và ứng dụng, Đồ hoạ ứng dụng trong khoa học máy tính | 26 |
+| Hè | MIL  PHT306 | Giáo dục quốc phòng và an ninh Bóng chuyền 3 | 1 |
 
 ### Năm ba
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 5 | CMP1020 <br> AIT109 <br> COS165 <br> COS5011 <br> AIT1008 <br> CMP1049 | Học sâu <br> Xử lý ngôn ngữ tự nhiên và ứng dụng <br> Hệ thống gợi ý <br> Thực tập cơ sở ngành Khoa học máy tính <br> Phân tích ảnh và thị giác máy tính <br> Khai thác dữ liệu | 3 <br> 3 <br> 3 <br> 3 <br> 3 <br> 3 |
-| 6 | COS464  AIT123  AIT126 | Lập trình song song | 3 |
+| 5 | CMP1020, AIT109, COS165, COS5011, AIT1008, CMP1049 | Học sâu, Xử lý ngôn ngữ tự nhiên và ứng dụng, Hệ thống gợi ý, Thực tập cơ sở ngành Khoa học máy tính, Phân tích ảnh và thị giác máy tính, Khai thác dữ liệu | 18 |
+| 6 | COS464, AIT123, AIT126 | Đồ án chuyên ngành Khoa học máy tính, Mô hình ngôn ngữ lớn (LLM), Lập trình song song | 9 |
 
 ### Năm tư
 
@@ -62,15 +62,15 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 
 **Chỗ thứ hai**
 
-- AI nói: Mã: **PHT306**  Môn: Bóng chuyền 3  Tín Chỉ: 2
-- Bảng chương trình đào tạo thật ra ghi: Mã: **PHT306**  Môn: Bóng chuyền 3  Tín Chỉ: 1
-- Tôi sửa thành: Mã: **PHT306**  Môn: Bóng chuyền 3  Tín Chỉ: 1
+- AI nói: Tính 5 tín chỉ Thể dục (Bóng chuyền) và GDQP vào tổng tín chỉ tích lũy GPA.
+- Bảng chương trình đào tạo thật ra ghi: Thể dục và GDQP là các môn điều kiện bắt buộc, không tính vào điểm GPA hay cộng dồn tín chỉ tích lũy 150 tín thành 155 tín.
+- Tôi sửa thành: Đẩy các môn điều kiện để tốt nghiệp chuyển sang kỳ Hè để giảm tải học kỳ chính.
 
 ## Tôi đã làm việc với AI thế nào
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | |
+| **Hỏi** | Hỏi AI generator và nhờ AI đóng vai thành một giảng viên để lập ra một lộ trình học cho 4 năm ngành Khoa Học Máy Tính theo định hướng thiên về Kỹ Sư AI và An Ninh Mạng|
 | **Hoài** | … |
 | **Học** | … |
 | **Hành** | … |
