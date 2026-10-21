@@ -26,21 +26,21 @@ https://notebooklm.link.google/7cepmohCy6Cc
 |---|---|---|---|
 | 3 | COS120 <br> COS321 <br> CMP174 <br> AIT1001 <br> CMP170 <br> CMP371 <br> POS103 <br> AIT103 <br> AIT305 <br> COS158 <br> COS360 <br> COS129 <br> CMP5089 <br> CMP3014 | Cấu trúc dữ liệu và giải thuật <br> Thực hành cấu trúc dữ liệu và giải thuật <br> Bảo mật thông tin <br> Cơ sở trí tuệ nhân tạo <br> Lập trình trên môi trường Windows <br> Thực hành lập trình trên môi trường Windows <br> Tư tưởng Hồ Chí Minh <br> Lập trình cho trí tuệ nhân tạo <br> Thực hành lập trình cho trí tuệ nhân tạo <br> Lập trình DevOps <br> Thực hành lập trình DevOps <br> Điện toán đám mây <br> Thực tập điện toán đám mây <br> Thực hành lý thuyết đồ thị | 3 <br> 1 <br> 3 <br> 3 <br> 3 <br> 1 <br> 2 <br> 3 <br> 1 <br> 3 <br> 1 <br> 3 <br> 1 <br> 1|
 | 4 | AIT104 <br> AIT306 <br> CMP101 <br> CMP177 <br> COS1010 <br> POS106 <br> CMP1047 <br> CMP3055 <br> AIT108 <br> AIT307 <br> COS159 | Máy học <br> Thực hành máy học <br> Công nghệ phần mềm <br> Lập trình trên thiết bị di động <br> Cơ sở công nghệ chuỗi khối <br> Chủ nghĩa xã hội khoa học <br> Phân tích và trực quan dữ liệu <br> Thực hành phân tích và trực quan dữ liệu <br> Xử lý ảnh và ứng dụng <br> Thực hành xử lý ảnh và ứng dụng <br> Đồ hoạ ứng dụng trong khoa học máy tính | 3 <br> 1 <br> 3 <br> 3 <br> 3 <br> 2 <br> 3 <br> 1 <br> 3 <br> 1 <br> 3 |
-| Hè | MIL  PHT306 | Giáo dục quốc phòng và an ninh  Bóng chuyền 3 | - <br> 1 |
+| Hè | MIL  PHT306 | Giáo dục quốc phòng và an ninh <br> Bóng chuyền 3 | - <br> 1 |
 
 ### Năm ba
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 5 | … | … | … |
-| 6 | … | … | … |
+| 5 | CMP1020 <br> AIT109 <br> COS165 <br> COS5011 <br> AIT1008 <br> CMP1049 | Học sâu <br> Xử lý ngôn ngữ tự nhiên và ứng dụng <br> Hệ thống gợi ý <br> Thực tập cơ sở ngành Khoa học máy tính <br> Phân tích ảnh và thị giác máy tính <br> Khai thác dữ liệu | 3 <br> 3 <br> 3 <br> 3 <br> 3 <br> 3 |
+| 6 | COS464  AIT123  AIT126 | Lập trình song song | 3 |
 
 ### Năm tư
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 7 | … | … | … |
-| 8 | … | … | … |
+| 7 | COS570 | Thực tập tốt nghiệp ngành Khoa học máy tính | 3 |
+| 8 | COS4012 | Đồ án tốt nghiệp khoa học máy tính | 9 |
 
 **Tổng cộng: … tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
 Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa ra một môn không có thật.
