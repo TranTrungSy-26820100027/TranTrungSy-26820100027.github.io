@@ -6,9 +6,9 @@ title: Chân dung nghề của tôi
 
 ## Hướng tôi nhắm
 
-An Ninh Mạng
+An Ninh Mạng và Kỹ Sư AI
 
-Vì sao: Học an ninh mạng có thẻ mang đến cho tôi cơ hội việc làm cũng như thỏa mãn được niềm ao ước từ bé của tôi. Nó khiến tôi có thêm được nhiều kiến thức về lập trình cũng như về bảo mật trên không gian mạng.
+Vì sao: Vì mong muốn của tôi là được làm việc và tiếp xúc nhiều với AI. Vậy nên để có thể trở thành một kỹ sư AI giỏi cần cố gắng rất nhiều và điều quan trọng nhất là mình có thể làm chủ được những gì mình làm ra nên việc học thêm về an ninh mạng vừa đóng góp vào một phần công việc của tôi cũng như là giúp tôi có thêm một lối đi khác cho mình.
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
