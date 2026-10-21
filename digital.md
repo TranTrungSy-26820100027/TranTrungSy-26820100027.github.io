@@ -25,7 +25,7 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 | 4 | Sáng tạo nội dung số | Dùng được | Có khả năng sử dụng canva và powerpoint để soạn bài thuyết trình, có khả năng thiết kế và đổi mới để các bài thuyết trình mang lại sự sinh động, tự nhiên và bố cục rõ ràng. |
 | 5 | An ninh và an toàn trên không gian mạng | Dùng được | Đã chủ động bật xác thực 2 lớp trên các nền tảng mạng xã hội. Luôn đề phòng trước những thông tin lạ (email, sms gửi những đường link bất thường) và không chia sẻ mật khẩu cho bất kì ai. |
 | 6 | Học tập và phát triển kỹ năng số | Dùng được | Tự giác tìm hiểu và học hỏi những kĩ năng và kiến thức mới trên các nền tảng mạng xã hội. Biết sử dụng các ứng dụng AI để tra cứu và chắt lọc những nội dụng, thông tin chưa biết. Đồng thời đang tự học thêm các ngôn ngữ nước ngoài cùng với ngôn ngữ lập trình. |
-| 7 | Năng lực số liên quan đến nghề nghiệp | Đang học tập tại môi trường đại học để chuẩn bị những kĩ năng cần thiết cho chuyên ngành. Đang tìm hiểu cách xây dựng một trang cá nhân riêng của mình để phục vụ cho công việc tương lai. |
+| 7 | Năng lực số liên quan đến nghề nghiệp | Đang học | tập tại môi trường đại học để chuẩn bị những kĩ năng cần thiết cho chuyên ngành. Đang tìm hiểu cách xây dựng một trang cá nhân riêng của mình để phục vụ cho công việc tương lai. |
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
