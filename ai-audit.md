@@ -18,7 +18,7 @@ Ngày thử: 2/10/2026
 | 5 | Có phải mọi thông tin trên mạng xã hội đều chính xác không? | Có, vì thông tin trên mạng xã hội thường được nhiều người chia sẻ. | Sai | Việc nhiều người chia sẻ không chứng minh thông tin là đúng; nội dung sai lệch cũng có thể lan truyền rộng rãi. | Microsoft Learn | Không nên tin ngay câu trả lời của AI. Cần kiểm tra nguồn gốc, đối chiếu nhiều nguồn đáng tin cậy và xác minh thông tin trước khi chia sẻ |
 
 
-#**Nhận xét:**
+# **Nhận xét:**
 
 Sau khi hỏi 5 câu, em thấy AI trả lời khá nhanh và phần lớn các câu trả lời đều đúng. Với những câu hỏi đơn giản như kiến thức địa lý, phép tính hay tin học cơ bản, em có thể dễ dàng kiểm tra lại bằng kiến thức đã học. Tuy nhiên, ở câu hỏi về độ chính xác của thông tin trên mạng xã hội, câu trả lời của AI có thể sai nếu không được kiểm chứng. Điều này cho thấy câu trả lời của AI đôi khi nghe có vẻ hợp lý nhưng vẫn có thể chứa thông tin không chính xác.
 
