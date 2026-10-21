@@ -7,11 +7,12 @@ title: Bản đồ học tập bốn năm
 
 ## Hướng tôi nhắm, nhắc lại từ Bài 1
 
-…
+Vì mong muốn của tôi là được làm việc và tiếp xúc nhiều với AI. Vậy nên để có thể trở thành một kỹ sư AI giỏi cần cố gắng rất nhiều và điều quan trọng nhất là mình có thể làm chủ được những gì mình làm ra nên việc học thêm về an ninh mạng vừa đóng góp vào một phần công việc của tôi cũng như là giúp tôi có thêm một lối đi khác cho mình.
 
 ## Tám học kỳ
 
 https://notebooklm.link.google/7cepmohCy6Cc
+
 ### Năm nhất
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
@@ -42,7 +43,7 @@ https://notebooklm.link.google/7cepmohCy6Cc
 | 7 | COS570 | Thực tập tốt nghiệp ngành Khoa học máy tính | 3 |
 | 8 | COS4012 | Đồ án tốt nghiệp khoa học máy tính | 9 |
 
-**Tổng cộng: … tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
+**Tổng cộng: 168 tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
 Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa ra một môn không có thật.
 
 ## Vì sao tôi xếp như vậy
