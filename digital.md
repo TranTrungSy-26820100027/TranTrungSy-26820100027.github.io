@@ -29,9 +29,9 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
-1. …
-2. …
-3. …
+1. Thay đổi phương pháp học tập cho hiệu quả hơn. 
+2. Lập lại thời gian biểu để phân chia công việc và thời gian hợp lí, sắp xếp mọi thứ có trật tự hơn.
+3. 
 
 ## Tôi đã làm việc với AI thế nào
 
