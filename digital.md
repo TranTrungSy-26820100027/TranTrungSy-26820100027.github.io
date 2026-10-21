@@ -6,7 +6,7 @@ title: Dấu chân số của tôi
 
 ## Tôi tự tìm tên mình và thấy gì
 
-…
+Không có thông tin cá nhân.
 
 ## Bảng tự kiểm bảy nhóm năng lực số
 
