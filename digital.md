@@ -19,18 +19,18 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 | # | Nhóm năng lực | Mức của tôi | Bằng chứng, mô tả bằng lời |
 |---|---|---|---|
-| 1 | Vận hành thiết bị và phần mềm | … | … |
-| 2 | Năng lực thông tin và dữ liệu | … | … |
-| 3 | Giao tiếp và hợp tác trong môi trường số | … | … |
-| 4 | Sáng tạo nội dung số | … | … |
-| 5 | An ninh và an toàn trên không gian mạng | … | … |
-| 6 | Học tập và phát triển kỹ năng số | … | … |
-| 7 | Năng lực số liên quan đến nghề nghiệp | … | … |
+| 1 | Vận hành thiết bị và phần mềm | Dùng được | Có thể sử dụng các thiết bị như laptop, điện thoại để phục vụ cho việc học. Có khả năng cài đặt một số app cơ bản và khắc phục một số lỗi kĩ thuật nhỏ. |
+| 2 | Năng lực thông tin và dữ liệu | Dùng được | Biết tra cứu các thông tin, tài liệu, giáo trình học quan trọng. Biết chọn lọc và rà soát lại thông tin từ những nguồn khác nhau. |
+| 3 | Giao tiếp và hợp tác trong môi trường số | Dùng được | Thường xuyên bàn luận, học tập và giao tiếp qua các app liên lạc như zalo, zoom, messenger. Biết cách soạn thảo email, document để gửi tài liệu |
+| 4 | Sáng tạo nội dung số | Dùng được | Có khả năng sử dụng canva và powerpoint để soạn bài thuyết trình, có khả năng thiết kế và đổi mới để các bài thuyết trình mang lại sự sinh động, tự nhiên và bố cục rõ ràng. |
+| 5 | An ninh và an toàn trên không gian mạng | Dùng được | Đã chủ động bật xác thực 2 lớp trên các nền tảng mạng xã hội. Luôn đề phòng trước những thông tin lạ (email, sms gửi những đường link bất thường) và không chia sẻ mật khẩu cho bất kì ai. |
+| 6 | Học tập và phát triển kỹ năng số | Dùng được | Tự giác tìm hiểu và học hỏi những kĩ năng và kiến thức mới trên các nền tảng mạng xã hội. Biết sử dụng các ứng dụng AI để tra cứu và chắt lọc những nội dụng, thông tin chưa biết. Đồng thời đang tự học thêm các ngôn ngữ nước ngoài cùng với ngôn ngữ lập trình. |
+| 7 | Năng lực số liên quan đến nghề nghiệp | Đang học tập tại môi trường đại học để chuẩn bị những kĩ năng cần thiết cho chuyên ngành. Đang tìm hiểu cách xây dựng một trang cá nhân riêng của mình để phục vụ cho công việc tương lai. |
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
-1. Thay đổi phương pháp học tập cho hiệu quả hơn. 
-2. Lập lại thời gian biểu để phân chia công việc và thời gian hợp lí, sắp xếp mọi thứ có trật tự hơn.
+1. Thói quen trì hoãn: Thực hiện ngay lập tức những mong muốn mà mình đã đặt ra, không để nó kéo dài ngày qua ngày.
+2. Quản 
 3. 
 
 ## Tôi đã làm việc với AI thế nào
