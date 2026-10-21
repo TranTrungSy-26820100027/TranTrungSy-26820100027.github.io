@@ -16,7 +16,7 @@ https://notebooklm.link.google/7cepmohCy6Cc
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 1 | CMP1074 <br>- CMP3075| Cơ sở lập trình | … |
+| 1 | CMP1074 <br> CMP3075| Cơ sở lập trình | … |
 | 2 | … | … | … |
 | Hè | … | … | … |
 
