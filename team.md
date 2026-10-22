@@ -27,8 +27,8 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 **Cách đo:** Đo trực tiếp dựa trên năng suất làm việc của nhóm · **Số ngày đo:** 5 · **Số người tham gia đo:** 5
 
 | Ngày | Số liệu đo được | Ghi chú |
-|26-Sep|27-Sep|28-Sep|
-| Không có số liệu | … | … |
+| … | … | … |
+| … | … | … |
 | … | … | … |
 | … | … | … |
 
