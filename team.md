@@ -10,8 +10,6 @@ title: Cẩm nang làm việc nhóm
 
 ### 1. Vấn đề
 
-Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứng ban đầu để thấy nhóm đã bóc từ đâu ra.
-
 **Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** Trễ hẹn, nước tới chân mới nhảy, làm việc người trước người sau.
 
 **Vấn đề thật (sau khi bóc):** Các thành viên không hoàn thành đúng thời hạn. 
@@ -19,8 +17,6 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 *Người viết phần này: Nguyễn Phú Quý*
 
 ### 2. Cách đo và số liệu
-
-Đo bằng cách nào, mấy ngày, mấy người, con số ra sao. Có bảng.
 
 **Cách đo:** Số ngày các thành viên trễ hạn trước buổi họp tiếp theo  · **Số ngày đo:** 3 · **Số người tham gia đo:** 1
 
@@ -33,8 +29,6 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 *Người viết phần này: Nguyễn Tùng Dương*
 
 ### 3. Nguyên nhân gốc
-
-Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 
 1. Vì sao các thành viên không hoàn thành đúng thời hạn? <br>
 => Vì các bạn chưa sắp xếp được thời gian học hợp lí và vẫn còn thói quen trì hoãn trong công việc.
@@ -58,14 +52,12 @@ Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 | Giải pháp | Ai thử | Trong bao lâu | Kết quả đo lại | Thành công / thất bại |
 |---|---|---|---|---|
 | Chia nhỏ bài tập thành các phần độc lập | Cả nhóm | Xuyên suốt quá trình làm bài tập nhóm | Các thành viên chủ động hoàn thành phần việc cá nhân mà không phải đợi chờ nhau. | -Thành công: Đảm bảo đúng tiến độ từng phần. <br> -Thất bại: Khâu ráp bài cuối cùng văn phong bị lủng củng, tốn thêm 1 ngày để chỉnh sửa. |
-| Chia task theo mô hình "Chạy tiếp sức" (Relay Work) Thay vì làm chung, chia theo luồng: Người A tìm tài liệu --> ném cho B viết nháp --> C thiết kế slide --> D thuyết trình. | Cả nhóm | Xuyên suốt dự án | Tiến độ chạy cuốn chiếu. Người sau chỉ cần đợi người trước hoàn thành để nhận file làm tiếp, ai rảnh lúc nào làm lúc đó. | - Thành công: Tối ưu hóa điểm mạnh của từng người, triệt tiêu hoàn toàn nhu cầu phải làm việc cùng một lúc. <br> - Thất bại: Nếu một mắt xích (ví dụ người A) nộp trễ hoặc làm ẩu, toàn bộ dây chuyền phía sau sẽ bị "cháy" deadline. |
+| Chia tiến độ theo mô hình "Chạy tiếp sức" thay vì làm chung: Người A tìm tài liệu => Người B viết nháp => Người C thiết kế slide => Người D thuyết trình | Cả nhóm | Xuyên suốt dự án | Tiến độ vừa phải. Người sau phải đợi người trước hoàn thành để nhận file làm tiếp. | - Thành công: Tối ưu hóa điểm mạnh của từng người, triệt tiêu hoàn toàn nhu cầu phải làm việc cùng một lúc. <br> - Thất bại: Nếu một mắt xích (ví dụ người A) nộp trễ hoặc làm ẩu, toàn bộ dây chuyền phía sau sẽ bị trễ deadline. |
 | Tạo áp lực làm bài | Phú Quý | Xuyên suốt dự án | Ép tập thể phải gồng lên mà làm bài làm | -Thành công: thật sự rất hiệu quả và mọi người đều hoàn thành gần như rất tốt <br> - Thất bại: dễ gây áp lực và có phần hơi 'toxic team' |
 
 *Người viết phần này: Phạm Hữu Đức*
 
 ### 5. Cẩm nang cho người sau
-
-Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 **Giữ:** Giành 30p phân công công việc thật cụ thể cho từng thành viên, cùng trao đổi đóng góp ý kiến, khi mỗi người chuẩn bị phần nội dung xong rồi cần cùng nhau kiểm tra lại xem có hợp lí hay thiếu sót gì không.
 
