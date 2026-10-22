@@ -16,42 +16,42 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 **Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** Trễ hẹn, nước tới chân mới nhảy, làm việc người trước người sau.
 
-**Vấn đề thật (sau khi bóc):** Chậm trễ trong việc làm bài tập, dự án nhóm.
+**Vấn đề thật (sau khi bóc):** Các thành viên không hoàn thành đúng thời hạn. 
 
-*Người viết phần này: Lê Tâm Như *
+*Người viết phần này: Nguyễn Phú Quý *
 
 ### 2. Cách đo và số liệu
 
 Đo bằng cách nào, mấy ngày, mấy người, con số ra sao. Có bảng.
 
-**Cách đo:** Đo trực tiếp dựa trên năng suất làm việc của nhóm · **Số ngày đo:** 5 · **Số người tham gia đo:** 5
+**Cách đo:** Số ngày các thành viên trễ hạn trước buổi họp tiếp theo  · **Số ngày đo:** 3 · **Số người tham gia đo:** 1
 
 | Ngày | Số liệu đo được | Ghi chú |
 | --- | --- | --- |
-| … | … | … |
-| … | … | … |
-| … | … | … |
+| 28/9 | Chưa có | Nhóm trưởng phân công và đặt hạn |
+| 4/10 | Quý 2, Dương 4| Tất cả mọi người |
+| 11/10 | Sỹ 1, Đức 3 | Mọi người hoàn thành phần việc của mình và hoàn thiện bài |
 
-*Người viết phần này: Nguyễn Phú Quý *
+*Người viết phần này: Nguyễn Tùng Dương *
 
 ### 3. Nguyên nhân gốc
 
 Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 
-1. Vì sao bài tập, dự án nhóm bị chậm trễ?
-=> Vì các thành viên chưa hoàn thành phần việc được giao đúng thời hạn.
-
-2. Vì sao các thành viên không hoàn thành đúng thời hạn?
+1. Vì sao các thành viên không hoàn thành đúng thời hạn?
 => Vì các bạn chưa sắp xếp được thời gian học hợp lí và vẫn còn thói quen trì hoãn trong công việc.
 
-3. Vì sao thường trì hoãn trong công việc?
-=> Vì chưa xác định được công việc cụ thể và vẫn chưa nắm rõ được mức độ quan trọng/ ưu tiên của công việc.
+2. Vì sao thường trì hoãn trong công việc?
+=> Vì chưa xác định được công việc cụ thể và vẫn chưa nắm rõ được mức độ quan trọng, ưu tiên của công việc.
 
-4. Vì sao chưa có kế hoạch làm việc cụ thể?
-=> Vì nhóm chưa phân công công việc của từng người cụ thể và thống nhất thời hạn một cách rõ ràng ngay từ đầu.
+3. Vì sao chưa có kế hoạch làm việc cụ thể?
+=> Vì nhóm chưa phân công công việc của từng người cụ thể một cách rõ ràng ngay từ đầu.
 
-5. Vì sao nhóm chưa phân công công việc và thống nhất rõ ràng?
-=> Vì mọi người thiếu sự phối hợp, trách nhiệm và quản lí công việc của từng người trong nhóm. 
+4. Vì sao nhóm chưa phân công công việc và thống nhất rõ ràng?
+=> Vì mọi người thiếu sự phối hợp công việc trong nhóm.
+
+5. Vì sao mọi người thiếu sự phối hợp?
+=> Vì mọi người chưa có sự thống nhất trong cách làm việc.
 
 *Người viết phần này: Trần Trung Sỹ *
 
@@ -81,15 +81,16 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 ## 1. Cách chia việc
 
-Bữa đầu: Cả nhóm hẹn họp online vào 10h. khi họp nhóm trưởng bắt đầu chia việc cho từng bạn theo khả năng và các bạn tự xung phong.
+Bữa đầu: Cả nhóm hẹn họp online vào 22h. Nhóm trưởng bắt đầu chia việc cho từng bạn theo khả năng của mỗi thành viên.
 
-Bạn Tâm Như: Làm 2 phần 1 đầu và cuối.
-Bạn Phú Quý: Làm phần 2 đầu và phần 3 cuối.
-Bạn Hữu Đức: Làm phần 4 đầu và phần 2 cuối.
-Bạn Minh Khang: Làm phần 5 đầu và phần 4 cuối.
-Bạn Trung Sỹ: Làm phần 3 đầu và phần 5 cuối. 
+Trưởng nhóm Tâm Như: Phân chia việc cho các thành viên
+Phó nhóm Phú Quý: Phần 1, 3 ( Chịu trách nhiệm phần 1: Vấn đề)
+Thành viên Hữu Đức: Phần 4, 2( Chịu trách nhiệm phần 1: Ba giải pháp đã thử)
+Thành viên Minh Khang: Phần 5, 4 ( Chịu trách nhiệm phần 1: Cẩm nang cho người sau)
+Thành viên Trung Sỹ: Phần 3, 1( Chịu trách nhiệm phần 1: Nguyên nhân gốc)
+Thành viên Tùng Dương: Phần 2, 5 ( Chịu trách nhiệm phần 1: Cách đo và số liệu)
 
-*Người viết phần này: Lê Tâm Như *
+*Người viết phần này: Trần Trung Sỹ *
 
 ## 2. Cách đặt hạn cho nhau
 
@@ -97,15 +98,14 @@ Bạn Trung Sỹ: Làm phần 3 đầu và phần 5 cuối.
 -Luôn sẵn sàng xong bài trước deadline 2 ngày vì ngày kế deadline chỉ cần ngồi xem lại và có rất nhiều thời gian để chỉnh sửa bài.
 -Tùy thuộc vào nội dung phụ trách thì hạn nộp khác nhau có thể rất sớm và cũng có thể vừa đủ.
 
-*Người viết phần này: Nguyễn Hữu Đức *
+*Người viết phần này: Phạm Hữu Đức *
 
 ## 3. Cách họp
 
-Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt kết luận.
+Họp ở trường, tuần 3 lần, mỗi lần không cố định, trưởng nhóm chốt kết luận.
 
 
-
-*Người viết phần này: …*
+*Người viết phần này: Nguyễn Phú Quý *
 
 ## 4. Khi một người mất tích
 
@@ -123,19 +123,19 @@ Xem lại phần đánh giá điểm số để bảo vệ quyền lợi của m
 
 Khi các thành viên có ý kiến khác nhau, nhóm sẽ lắng nghe từng ý kiến của mỗi người trong nhóm để phân tích ưu/nhược điểm của mỗi ý kiến được đưa ra, từ đó có thể chọn được ý kiến tối ưu nhất. Nếu vẫn chưa chọn được ý kiến nào thì sẽ đưa ra phương án bình chọn và dựa trên số lượng mỗi người đồng ý với ý kiến nào để có thể thống nhất 1 phương án làm việc chung. 
 
-*Người viết phần này: Trần Trung SỸ *
+*Người viết phần này: Nguyễn Tùng Dương *
 
 ## Nhóm tôi đã cãi nhau ở chỗ nào
 
 Viết thật. Nhóm nào cũng có, và chỗ đó thường là chỗ đáng ghi nhất.
 
-…
+C
 
 ## Tôi đã làm việc với AI thế nào
 
 | Bước | Nhóm đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Không |
+| **Hoài** | Không |
+| **Học** | Không |
+| **Hành** | Không |
