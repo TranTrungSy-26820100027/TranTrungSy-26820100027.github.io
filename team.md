@@ -4,11 +4,9 @@ title: Cẩm nang làm việc nhóm
 
 # Cẩm nang làm việc nhóm
 
-**Nhóm:** Anyone is legend · **Thành viên:** Trần Trung Sỹ, Nguyễn Phú Quý, Nguyễn Hữu Đức, Lê Tâm Như, Bùi Minh Khang, Nguyễn Tùng Dương.
+**Nhóm:** Anyone is legend · <br> **Thành viên:** Trần Trung Sỹ, Nguyễn Phú Quý, Nguyễn Hữu Đức, Lê Tâm Như, Bùi Minh Khang, Nguyễn Tùng Dương.
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
-
-> Đây là phần lõi của Playbook — một vấn đề học tập có thật mà nhóm đã đo, tìm nguyên nhân gốc, thử giải pháp và rút cẩm nang cho khoá sau. Đủ năm phần mới tính.
 
 ### 1. Vấn đề
 
@@ -18,7 +16,7 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 **Vấn đề thật (sau khi bóc):** Các thành viên không hoàn thành đúng thời hạn. 
 
-*Người viết phần này: Nguyễn Phú Quý *
+*Người viết phần này: Nguyễn Phú Quý*
 
 ### 2. Cách đo và số liệu
 
@@ -32,7 +30,7 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 | 4/10 | Quý 2, Dương 4| Tất cả mọi người chấm chéo lỗi sản phẩm của nhau, phân thêm deadline sữa chữa và lên lịch cho buổi họp tiếp theo |
 | 11/10 | Sỹ 1, Đức 3 | Mọi người hoàn thành phần việc của mình và hoàn thiện bài |
 
-*Người viết phần này: Nguyễn Tùng Dương *
+*Người viết phần này: Nguyễn Tùng Dương*
 
 ### 3. Nguyên nhân gốc
 
@@ -53,17 +51,17 @@ Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 5. Vì sao mọi người thiếu sự phối hợp? <br>
 => Vì mọi người chưa có sự thống nhất trong cách làm việc.
 
-*Người viết phần này: Trần Trung Sỹ *
+*Người viết phần này: Trần Trung Sỹ*
 
 ### 4. Ba giải pháp đã thử
 
 | Giải pháp | Ai thử | Trong bao lâu | Kết quả đo lại | Thành công / thất bại |
 |---|---|---|---|---|
-| Chia nhỏ bài tập thành các phần độc lập | cả nhóm | xuyên suốt quá trình làm bài tập nhóm | Các thành viên chủ động hoàn thành phần việc cá nhân mà không phải đợi chờ nhau. | -Thành công: Đảm bảo đúng tiến độ từng phần. <br> -Thất bại: Khâu ráp bài cuối cùng văn phong bị lủng củng, tốn thêm 1 ngày để chỉnh sửa. |
+| Chia nhỏ bài tập thành các phần độc lập | Cả nhóm | Xuyên suốt quá trình làm bài tập nhóm | Các thành viên chủ động hoàn thành phần việc cá nhân mà không phải đợi chờ nhau. | -Thành công: Đảm bảo đúng tiến độ từng phần. <br> -Thất bại: Khâu ráp bài cuối cùng văn phong bị lủng củng, tốn thêm 1 ngày để chỉnh sửa. |
 | Chia task theo mô hình "Chạy tiếp sức" (Relay Work) Thay vì làm chung, chia theo luồng: Người A tìm tài liệu --> ném cho B viết nháp --> C thiết kế slide --> D thuyết trình. | Cả nhóm | Xuyên suốt dự án | Tiến độ chạy cuốn chiếu. Người sau chỉ cần đợi người trước hoàn thành để nhận file làm tiếp, ai rảnh lúc nào làm lúc đó. | - Thành công: Tối ưu hóa điểm mạnh của từng người, triệt tiêu hoàn toàn nhu cầu phải làm việc cùng một lúc. <br> - Thất bại: Nếu một mắt xích (ví dụ người A) nộp trễ hoặc làm ẩu, toàn bộ dây chuyền phía sau sẽ bị "cháy" deadline. |
-| Tạo áp lực làm bài | cả nhóm | xuyên suốt dự án | Ép tập thể phải gồng lên mà làm bài làm | -Thành công: thật sự rất hiệu quả và mọi người đều hoàn thành gần như rất tốt <br> - Thất bại: dễ gây áp lực và có phần hơi 'toxic team' |
+| Tạo áp lực làm bài | Phú Quý | Xuyên suốt dự án | Ép tập thể phải gồng lên mà làm bài làm | -Thành công: thật sự rất hiệu quả và mọi người đều hoàn thành gần như rất tốt <br> - Thất bại: dễ gây áp lực và có phần hơi 'toxic team' |
 
-*Người viết phần này: …*
+*Người viết phần này: Phạm Hữu Đức*
 
 ### 5. Cẩm nang cho người sau
 
@@ -75,7 +73,7 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 **Cảnh báo cụ thể cho nhóm khoá sau:** Nên giành nhiều thời gian để trao đổi và đưa ra những ý kiến phù hợp, tập trung vào phần còn thiếu xót hay điểm yếu của nhóm mà sửa chữa khắc phục kịp thời.
 
-*Người viết phần này: Bùi Minh Khang *
+*Người viết phần này: Bùi Minh Khang*
 
 ## 1. Cách chia việc
 
@@ -88,7 +86,7 @@ Thành viên Minh Khang: Phần 5, 4 ( Chịu trách nhiệm phần 1: Cẩm nan
 Thành viên Trung Sỹ: Phần 3, 1( Chịu trách nhiệm phần 1: Nguyên nhân gốc) <br>
 Thành viên Tùng Dương: Phần 2, 5 ( Chịu trách nhiệm phần 1: Cách đo và số liệu)
 
-*Người viết phần này: Trần Trung Sỹ *
+*Người viết phần này: Trần Trung Sỹ*
 
 ## 2. Cách đặt hạn cho nhau
 
@@ -96,14 +94,14 @@ Thành viên Tùng Dương: Phần 2, 5 ( Chịu trách nhiệm phần 1: Cách 
 -Luôn sẵn sàng xong bài trước deadline 2 ngày vì ngày kế deadline chỉ cần ngồi xem lại và có rất nhiều thời gian để chỉnh sửa bài.
 -Tùy thuộc vào nội dung phụ trách thì hạn nộp khác nhau có thể rất sớm và cũng có thể vừa đủ.
 
-*Người viết phần này: Phạm Hữu Đức *
+*Người viết phần này: Phạm Hữu Đức*
 
 ## 3. Cách họp
 
-Họp ở trường, tuần 3 lần, mỗi lần không cố định, trưởng nhóm chốt kết luận.
+Địa điểm họp ở trường nhưng thời gian không cố định, cách nhau 1 tuần và thời lượng họp không cụ thể. <br>
+Nhóm trưởng sẽ là người đưa ra kết luận và chốt ý kiếm chung của buổi họp đó.
 
-
-*Người viết phần này: Nguyễn Phú Quý *
+*Người viết phần này: Nguyễn Phú Quý*
 
 ## 4. Khi một người mất tích
 
@@ -115,13 +113,13 @@ Giữ lửa cho những thành viên còn lại khi thấy ai đó muốn bỏ c
 Ghi lại lịch sử tin nhắn, những lần liên lạc với người mất tích.
 Xem lại phần đánh giá điểm số để bảo vệ quyền lợi của mọi người thật công bằng.
 
-*Người viết phần này: Bùi Minh Khang *
+*Người viết phần này: Bùi Minh Khang*
 
 ## 5. Khi bất đồng thì quyết thế nào
 
 Khi các thành viên có ý kiến khác nhau, nhóm sẽ lắng nghe từng ý kiến của mỗi người trong nhóm để phân tích ưu/nhược điểm của mỗi ý kiến được đưa ra, từ đó có thể chọn được ý kiến tối ưu nhất. Nếu vẫn chưa chọn được ý kiến nào thì sẽ đưa ra phương án bình chọn và dựa trên số lượng mỗi người đồng ý với ý kiến nào để có thể thống nhất 1 phương án làm việc chung. 
 
-*Người viết phần này: Nguyễn Tùng Dương *
+*Người viết phần này: Nguyễn Tùng Dương*
 
 ## Nhóm tôi đã cãi nhau ở chỗ nào
 
