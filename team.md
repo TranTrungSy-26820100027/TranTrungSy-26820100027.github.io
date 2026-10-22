@@ -29,7 +29,7 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 | Ngày | Số liệu đo được | Ghi chú |
 | --- | --- | --- |
 | 28/9 | Chưa có | Nhóm trưởng phân công và đặt hạn |
-| 4/10 | Quý 2, Dương 4| Tất cả mọi người |
+| 4/10 | Quý 2, Dương 4| Tất cả mọi người chấm chéo lỗi sản phẩm của nhau, phân thêm deadline sữa chữa và lên lịch cho buổi họp tiếp theo |
 | 11/10 | Sỹ 1, Đức 3 | Mọi người hoàn thành phần việc của mình và hoàn thiện bài |
 
 *Người viết phần này: Nguyễn Tùng Dương *
@@ -38,32 +38,30 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 
-1. Vì sao các thành viên không hoàn thành đúng thời hạn?
+1. Vì sao các thành viên không hoàn thành đúng thời hạn? <br>
 => Vì các bạn chưa sắp xếp được thời gian học hợp lí và vẫn còn thói quen trì hoãn trong công việc.
 
-2. Vì sao thường trì hoãn trong công việc?
+2. Vì sao thường trì hoãn trong công việc? <br>
 => Vì chưa xác định được công việc cụ thể và vẫn chưa nắm rõ được mức độ quan trọng, ưu tiên của công việc.
 
-3. Vì sao chưa có kế hoạch làm việc cụ thể?
+3. Vì sao chưa có kế hoạch làm việc cụ thể? <br>
 => Vì nhóm chưa phân công công việc của từng người cụ thể một cách rõ ràng ngay từ đầu.
 
-4. Vì sao nhóm chưa phân công công việc và thống nhất rõ ràng?
+4. Vì sao nhóm chưa phân công công việc và thống nhất rõ ràng? <br>
 => Vì mọi người thiếu sự phối hợp công việc trong nhóm.
 
-5. Vì sao mọi người thiếu sự phối hợp?
+5. Vì sao mọi người thiếu sự phối hợp? <br>
 => Vì mọi người chưa có sự thống nhất trong cách làm việc.
 
 *Người viết phần này: Trần Trung Sỹ *
 
 ### 4. Ba giải pháp đã thử
 
-Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái thất bại.
-
 | Giải pháp | Ai thử | Trong bao lâu | Kết quả đo lại | Thành công / thất bại |
 |---|---|---|---|---|
-| … | … | … | … | … |
-| … | … | … | … | … |
-| … | … | … | … | … |
+| Chia nhỏ bài tập thành các phần độc lập | cả nhóm | xuyên suốt quá trình làm bài tập nhóm | Các thành viên chủ động hoàn thành phần việc cá nhân mà không phải đợi chờ nhau. | -Thành công: Đảm bảo đúng tiến độ từng phần. <br> -Thất bại: Khâu ráp bài cuối cùng văn phong bị lủng củng, tốn thêm 1 ngày để chỉnh sửa. |
+| Chia task theo mô hình "Chạy tiếp sức" (Relay Work) Thay vì làm chung, chia theo luồng: Người A tìm tài liệu --> ném cho B viết nháp --> C thiết kế slide --> D thuyết trình. | Cả nhóm | Xuyên suốt dự án | Tiến độ chạy cuốn chiếu. Người sau chỉ cần đợi người trước hoàn thành để nhận file làm tiếp, ai rảnh lúc nào làm lúc đó. | - Thành công: Tối ưu hóa điểm mạnh của từng người, triệt tiêu hoàn toàn nhu cầu phải làm việc cùng một lúc. <br> - Thất bại: Nếu một mắt xích (ví dụ người A) nộp trễ hoặc làm ẩu, toàn bộ dây chuyền phía sau sẽ bị "cháy" deadline. |
+| Tạo áp lực làm bài | cả nhóm | xuyên suốt dự án | Ép tập thể phải gồng lên mà làm bài làm | -Thành công: thật sự rất hiệu quả và mọi người đều hoàn thành gần như rất tốt <br> - Thất bại: dễ gây áp lực và có phần hơi 'toxic team' |
 
 *Người viết phần này: …*
 
@@ -83,11 +81,11 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 Bữa đầu: Cả nhóm hẹn họp online vào 22h. Nhóm trưởng bắt đầu chia việc cho từng bạn theo khả năng của mỗi thành viên.
 
-Trưởng nhóm Tâm Như: Phân chia việc cho các thành viên
-Phó nhóm Phú Quý: Phần 1, 3 ( Chịu trách nhiệm phần 1: Vấn đề)
-Thành viên Hữu Đức: Phần 4, 2( Chịu trách nhiệm phần 1: Ba giải pháp đã thử)
-Thành viên Minh Khang: Phần 5, 4 ( Chịu trách nhiệm phần 1: Cẩm nang cho người sau)
-Thành viên Trung Sỹ: Phần 3, 1( Chịu trách nhiệm phần 1: Nguyên nhân gốc)
+Trưởng nhóm Tâm Như: Phân chia việc cho các thành viên <br>
+Phó nhóm Phú Quý: Phần 1, 3 ( Chịu trách nhiệm phần 1: Vấn đề) <br>
+Thành viên Hữu Đức: Phần 4, 2( Chịu trách nhiệm phần 1: Ba giải pháp đã thử) <br>
+Thành viên Minh Khang: Phần 5, 4 ( Chịu trách nhiệm phần 1: Cẩm nang cho người sau) <br>
+Thành viên Trung Sỹ: Phần 3, 1( Chịu trách nhiệm phần 1: Nguyên nhân gốc) <br>
 Thành viên Tùng Dương: Phần 2, 5 ( Chịu trách nhiệm phần 1: Cách đo và số liệu)
 
 *Người viết phần này: Trần Trung Sỹ *
@@ -129,7 +127,7 @@ Khi các thành viên có ý kiến khác nhau, nhóm sẽ lắng nghe từng ý
 
 Viết thật. Nhóm nào cũng có, và chỗ đó thường là chỗ đáng ghi nhất.
 
-C
+Nhóm cãi nhau ở việc bất đồng quan điểm, do 1 phần mọi người đều tiếc đi công sức của bản thân mình làm và cái tôi còn cao nên dẫn đến việc có tranh cãi. Ví dụ lớn nhất đó là việc bất đồng quan điểm của bạn Hữu Đức và bạn Phú Quý về việc bạn Hữu Đức làm sai nhưng bạn không chịu chấp nhận ý kiến của bạn Quý rằng bạn đang thiếu xót mà bạn cứ khăng khăng là bạn đúng. Nên dẫn đến việc trì trệ thời gian bài nhóm bị kéo dài ra hơn.
 
 ## Tôi đã làm việc với AI thế nào
 
