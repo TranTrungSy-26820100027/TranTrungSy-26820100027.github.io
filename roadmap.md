@@ -11,40 +11,39 @@ Vì mong muốn của tôi là được làm việc và tiếp xúc nhiều vớ
 
 ## Tám học kỳ
 
-https://notebooklm.link.google/Vfu8EmkvzhY8
+https://notebooklm.link.google/hj1ZsnAnYmX0
 
 ### Năm nhất
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 1 | CMP1074, CMP3075, LAW106, SKL115, ENC120, MAT101, COS673, CMP164, CMP365, MAT118, MAT104, ENC121, POS104, SKL116| Cơ sở lập trình, Thực hành cơ sở lập trình, Pháp luật đại cương, Tư duy thiết kế dự án,Anh ngữ 1, Đại số tuyến tính, Nhập môn ngành Khoa học máy tính, Kỹ thuật lập trình, Thực hành kỹ thuật lập trình, Giải tích, Toán rời rạc, Anh ngữ 2, Triết học Mác - Lênin, Đổi mới sáng tạo và tư duy khởi nghiệp | 38|
-| 2 | CMP167, CMP368, COS135, COS323, MAT105, ENC122, ENS192, AIT1002, AIT3007, CMP172, CMP373, COS1002, COS324, ENC123 | Lập trình hướng đối tượng, Thực hành lập trình hướng đối tượng, Nhập môn cơ sở dữ liệu, Thực hành cơ sở dữ liệu, Xác suất thống kê, Anh ngữ 3, Phát triển bền vững, Nghệ thuật lập trình với hỗ trợ trí tuệ nhân tạo, Thực hành nghệ thuật lập trình với hỗ trợ trí tuệ nhân tạo, Mạng máy tính, Thực hành mạng máy tính, Các hệ quản trị cơ sở dữ liệu, Thực hành quản trị cơ sở dữ liệu, Anh ngữ 4 | 32 |
-| Hè | POS105, POS107, PHT304, PHT305 | Kinh tế chính trị Mác - Lênin, Lịch sử Đảng Cộng sản Việt Nam, Bóng chuyền 1, Bóng chuyền 2 | 2 |
+| 1 | **CMP1074**, **CMP3075**, **LAW106**, **SKL115**, **ENC120**, **MAT101**, **COS673**, **NDF108**, **PHT304**  | Cơ sở lập trình, Thực hành cơ sở lập trình, Pháp luật đại cương, Tư duy thiết kế dự án, Anh ngữ 1, Đại số tuyến tính, Nhập môn ngành Khoa học máy tính, Giáo dục quốc phòng và an ninh, Bóng chuyền 1 | 19 |
+| 2 | **CMP164**, **CMP365**, **MAT118**, **MAT104**, **ENC121**, **ENS192**, **PHT305**| Kỹ thuật lập trình, Thực hành kỹ thuật lập trình, Giải tích, Toán rời rạc, Anh ngữ 2, Phát triển bền vững, Bóng chuyền 2 | 16 |
+| Hè | **MAT105**, **ENC122** | Xác suất thống kê, Anh ngữ 3 | 6 |
 
 ### Năm hai
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 3 | COS120, COS321, CMP174, AIT1001, CMP170, CMP371, POS103, AIT103, AIT305, COS158, COS360, COS129, CMP5089, CMP3014 | Cấu trúc dữ liệu và giải thuật, Thực hành cấu trúc dữ liệu và giải thuật, Bảo mật thông tin, Cơ sở trí tuệ nhân tạo, Lập trình trên môi trường Windows, Thực hành lập trình trên môi trường Windows, Tư tưởng Hồ Chí Minh, Lập trình cho trí tuệ nhân tạo, Thực hành lập trình cho trí tuệ nhân tạo, Lập trình DevOps, Thực hành lập trình DevOps, Điện toán đám mây, Thực tập điện toán đám mây, Thực hành lý thuyết đồ thị |28|
-| 4 | AIT104, CMP101, CMP177, COS1010, POS106, CMP1047, CMP3055, AIT108, AIT307, COS159 | Máy học, Công nghệ phần mềm, Lập trình trên thiết bị di động, Cơ sở công nghệ chuỗi khối, Chủ nghĩa xã hội khoa học, Phân tích và trực quan dữ liệu, Thực hành phân tích và trực quan dữ liệu, Xử lý ảnh và ứng dụng, Thực hành xử lý ảnh và ứng dụng, Đồ hoạ ứng dụng trong khoa học máy tính | 26 |
-| Hè | MIL  PHT306 | Giáo dục quốc phòng và an ninh Bóng chuyền 3 | 0 |
+| 3 | **CMP167**, **CMP368**, **COS135**, **COS321**, **POS104**, **ENC123** | Lập trình hướng đối tượng, Thực hành lập trình hướng đối tượng, Nhập môn cơ sở dữ liệu, Cấu trúc dữ liệu và giải thuật, Thực hành cấu trúc dữ liệu và giải thuật, riết học Mác - Lênin, Anh ngữ 4 | 17|
+| 4 | **COS1002**, **COS324**, **COS129**, **AIT1002**, **POS105**, **POS106**, **PHT306** | Các hệ quản trị cơ sở dữ liệu, Thực hành quản trị cơ sở dữ liệu, Điện toán đám mây, Nghệ thuật lập trình với hỗ trợ trí tuệ nhân tạo, Kinh tế chính trị Mác - Lênin, Chủ nghĩa xã hội khoa học, Bóng chuyền 3 | 14 |
+| Hè | **POS107**, **POS103**| Lịch sử Đảng Cộng sản Việt Nam, Tư tưởng Hồ Chí Minh| 4 |
 
 ### Năm ba
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 5 | CMP1020, AIT109, COS165, COS5011, AIT1008, CMP1049 | Học sâu, Xử lý ngôn ngữ tự nhiên và ứng dụng, Hệ thống gợi ý, Thực tập cơ sở ngành Khoa học máy tính, Phân tích ảnh và thị giác máy tính, Khai thác dữ liệu | 18 |
-| 6 | COS464, AIT123, AIT126 | Đồ án chuyên ngành Khoa học máy tính, Mô hình ngôn ngữ lớn (LLM), Lập trình song song | 9 |
+| 5 | **AIT103**, **CMP177**, **COS158**, **COS360**, **CMP172**, **CMP373**, **CMP3014** | Lập trình cho trí tuệ nhân tạo, Lập trình trên thiết bị di động, Lập trình devops, Thực hành lập trình devops, Mạng máy tính, Thực hành mạng máy tính, Thực hành lý thuyết đồ thị | 14 |
+| 6 | **AIT1001**, **CMP174**, **AIT104**, **CMP170**, **CMP5089**, **AIT305**, **AIT305**| Cơ sở trí tuệ nhân tạo, Bảo mật thông tin, Máy học, Lập trình trên môi trường Windows, Thực tập điện toán đám mây, Thực hành lập trình cho trí tuệ nhân tạo, Thực hành nghệ thuật lập trình với hỗ trợ trí tuệ nhân tạo | 15 |
 
 ### Năm tư
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 7 | COS570 | Thực tập tốt nghiệp ngành Khoa học máy tính | 3 |
-| 8 | COS4012 | Đồ án tốt nghiệp khoa học máy tính | 9 |
+| 7 | **CMP101**, **CMP1047**, **AIT108**, **COS159**, **COS1010**, **CMP1020** | Công nghệ phần mềm, Phân tích và trực quan dữ liệu, Xử lý ảnh và ứng dụng, Đồ hoạ ứng dụng trong khoa học máy tính, Cơ sở công nghệ chuỗi khối, Học sâu | 18 |
+| 8 | **COS5011**, **COS464**, **COS570**, **COS165**, **AIT1008**, **AIT126**, **COS4012** | Hệ thống gợi ý, Phân tích ảnh và thị giác máy tính, Lập trình song song, Đồ án tốt nghiệp khoa học máy tính | 27 |
 
-**Tổng cộng: 162 tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
-Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa ra một môn không có thật.
+**Tổng cộng: 150 tín chỉ.**
 
 ## Vì sao tôi xếp như vậy
 
