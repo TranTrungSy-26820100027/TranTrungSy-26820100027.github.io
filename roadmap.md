@@ -11,7 +11,7 @@ Vì mong muốn của tôi là được làm việc và tiếp xúc nhiều vớ
 
 ## Tám học kỳ
 
-https://notebooklm.link.google/7cepmohCy6Cc
+https://notebooklm.link.google/Vfu8EmkvzhY8
 
 ### Năm nhất
 
