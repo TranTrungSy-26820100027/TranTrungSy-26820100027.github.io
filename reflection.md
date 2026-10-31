@@ -32,6 +32,6 @@ Tôi sẽ viết lại trang 2, theo cách rõ ràng hơn. Tôi sẽ dành tất
 
 ## Đoạn tự giới thiệu chín mươi giây
 
-Đường dẫn: <https://drive.google.com/drive/u/0/home>
+Đường dẫn: <https://drive.google.com/file/d/1lqD-YKhaAEGgNbcxmQxvkO-IrNCTa5nM/view?usp=sharing>
 
 Không cần đẹp, không cần phông nền. Chỉ cần giọng tôi nói về thứ tôi đã làm.
